@@ -1,0 +1,6 @@
+[submodule "HomeAssistantTimeMachineBeta"]
+	path = HomeAssistantTimeMachineBeta
+	url = https://github.com/saihgupr/HomeAssistantTimeMachineBeta
+[submodule "HomeAssistantTimeMachine"]
+	path = HomeAssistantTimeMachine
+	url = https://github.com/saihgupr/HomeAssistantTimeMachine
