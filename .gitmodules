@@ -1,6 +1,6 @@
 [submodule "HomeAssistantTimeMachine"]
 	path = HomeAssistantTimeMachine
-	url = https://github.com/DiggingForDinos/HomeAssistantTimeMachine.git
+	url = https://github.com/saihgupr/HomeAssistantTimeMachine.git
 [submodule "HomeAssistantVersionControl"]
 	path = HomeAssistantVersionControl
-	url = https://github.com/DiggingForDinos/HomeAssistantVersionControl.git
+	url = https://github.com/saihgupr/HomeAssistantVersionControl.git
