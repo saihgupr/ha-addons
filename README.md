@@ -1,4 +1,4 @@
-# Saihgupr Add-ons Repository
+# Saihgupr's Add-ons Repository
 
 This repository contains stable Home Assistant Add-ons for advanced version control and history management.
 
