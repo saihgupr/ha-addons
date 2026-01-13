@@ -1,8 +1,8 @@
 [submodule "HomeAssistantTimeMachine"]
 	path = HomeAssistantTimeMachine
-	url = git@github-saihgupr:saihgupr/HomeAssistantTimeMachine.git
+	url = https://github.com/saihgupr/HomeAssistantTimeMachine.git
 	branch = main
 [submodule "HomeAssistantVersionControl"]
 	path = HomeAssistantVersionControl
-	url = git@github-saihgupr:saihgupr/HomeAssistantVersionControl.git
+	url = https://github.com/saihgupr/HomeAssistantVersionControl.git
 	branch = main
