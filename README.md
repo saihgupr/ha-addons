@@ -4,8 +4,8 @@ This repository contains stable Home Assistant Add-ons for advanced version cont
 
 ## Add-ons included
 
+- **[Home Assistant Editor](https://github.com/saihgupr/HomeAssistantEditor)**: A sleek, three-column visual workspace for taming massive automations and scripts that are impossible to read in the standard UI.
 - **[Home Assistant Version Control](https://github.com/saihgupr/HomeAssistantVersionControl)**: Automatic backup, history tracking, and instant restore for your Home Assistant configuration.
-- **[Home Assistant Editor](https://github.com/saihgupr/HomeAssistantEditor)**: A robust visual editor for Home Assistant automations and scripts.
 - **[Home Assistant Time Machine](https://github.com/saihgupr/HomeAssistantTimeMachine)**: A web-based tool that acts as a "Time Machine" for your Home Assistant configuration.
 
 ## Installation
